@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# Click [here](https://weather-app-react-tailwind-six.vercel.app/) to view live site
+# Click [here](https://weatherapp-react-tailwind-bilal.vercel.app/) to view live site
 
 
 ## Available Scripts
